@@ -12,7 +12,7 @@
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-648941183@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:2228571262@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2228571262@qq.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
